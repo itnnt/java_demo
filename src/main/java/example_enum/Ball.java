@@ -1,4 +1,4 @@
-package enum_example;
+package example_enum;
 
 public class Ball {
 	public enum Color{RED, GREEN, BLUE};
